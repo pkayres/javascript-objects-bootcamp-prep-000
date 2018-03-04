@@ -1,1 +1,3 @@
-var playlist = Object{}
+var playlist = {
+  Coldplay:'sparks'
+}
