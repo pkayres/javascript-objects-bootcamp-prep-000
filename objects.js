@@ -1,4 +1,4 @@
 var playlist = {
   Coldplay:'sparks'
 }
-playlist.RollingStones = 'Red Door'
+var updatePlaylist(playlist,artistName,)
