@@ -3,8 +3,8 @@ var playlist = {
 }
 
 function updatePlaylist(object, artistName, songTitle){
-   object = 'yesterday';
-   return playlist
+   object.artistName = songTitle;
+   return object
 }
 
 function removeFromPlaylist(playlist,artistName){
