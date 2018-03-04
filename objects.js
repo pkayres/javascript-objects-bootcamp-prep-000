@@ -1,1 +1,1 @@
-var objects = new Object({ object: 'playlist' })
+var objects = Object({ object: 'playlist' })
