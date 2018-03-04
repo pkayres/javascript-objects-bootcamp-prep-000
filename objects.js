@@ -1,1 +1,1 @@
-var meals = new Object({ breakfast: 'oatmeal' })
+var objects = new Object(playlist)
