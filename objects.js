@@ -1,2 +1,1 @@
-
-var objects = new Object('playlist');
+var objects = {playlist};
